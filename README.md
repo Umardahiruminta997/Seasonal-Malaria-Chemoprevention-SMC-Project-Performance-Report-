@@ -20,6 +20,8 @@ Measure community acceptance and satisfaction
 Analyze program reach and accessibility
 Identify gaps and provide actionable recommendations
 
+## SMC General Overview Dashboard
  ![Dashboard](cpp1.png)
-
+## SMC Vaccine Effectiveness Dashboard
+![
 
