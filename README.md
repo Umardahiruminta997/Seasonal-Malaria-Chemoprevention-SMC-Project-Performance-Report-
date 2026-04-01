@@ -20,6 +20,6 @@ Measure community acceptance and satisfaction
 Analyze program reach and accessibility
 Identify gaps and provide actionable recommendations
 
-! [Dashboard] (
+ ![Dashboard](cpp1.png)
 
 
