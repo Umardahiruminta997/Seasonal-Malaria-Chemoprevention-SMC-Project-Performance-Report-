@@ -3,7 +3,7 @@
 - Prepared by: Umar Dahiru Minta 
 - ID: IBH240070 
 - Umardahiruminta997@gmail.com
-- [Report Pdf]()
+- [Report Pdf](Seasonal Malaria Chemoprevention-SMC Nasarawa State Report.pdf)
 
  
 # Executive Summary 
