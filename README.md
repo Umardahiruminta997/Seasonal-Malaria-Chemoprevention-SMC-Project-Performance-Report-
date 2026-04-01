@@ -1,9 +1,10 @@
-
 # Seasonal Malaria Chemoprevention (SMC) Project Performance Report 
  
 - Prepared by: Umar Dahiru Minta 
 - ID: IBH240070 
-- Umardahiruminta997@gmail.com 
+- Umardahiruminta997@gmail.com
+- [Report Pdf]()
+
  
 # Executive Summary 
 This report presents the performance analysis of the Seasonal Malaria Chemoprevention (SMC) program using data collected from 1,320 children and households. The evaluation spans across key indicators including vaccine effectiveness, adverse reactions, program acceptance, and community reach. Results show excellent vaccine coverage and effectiveness, moderate adverse reaction rates, and high overall satisfaction among beneficiaries. 
