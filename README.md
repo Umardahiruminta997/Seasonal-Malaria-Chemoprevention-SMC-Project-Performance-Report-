@@ -21,8 +21,8 @@ This report presents the performance analysis of the Seasonal Malaria Chemopreve
 - Identify gaps and provide actionable recommendations
 
 ## SMC General Overview Dashboard
- ![Dashboard](cp_p1.png)
- ![Dashboard](cpp1.png)
+ ![General Overview Dashboard](cpp1.png)
+
 ## SMC Vaccine Effectiveness Dashboard
 ![Effectiveness](cpp3.png)
 
