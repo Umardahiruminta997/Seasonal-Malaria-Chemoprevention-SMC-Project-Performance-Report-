@@ -58,7 +58,7 @@ the estimated effectiveness of the Seasonal Malaria Chemoprevention (SMC) vaccin
 ## 3.	Adverse Reaction Analysis 
   
 -	Overall Adverse Reaction Rate: 16%
--	 - By Gender: 
+  ### By Gender: 
 -	Female: 16.3%
 - Male: 15.6% - By LGA: 
   
@@ -112,7 +112,8 @@ The data suggests that although the adverse reaction rate is within acceptable l
 
 ## Conclusion 
 The SMC program has demonstrated strong effectiveness and acceptance, with full vaccine completion and a very high satisfaction rate. Minor concerns around dose completion and adverse reactions in specific LGAs provide opportunities for improvement. With datadriven adjustments and targeted community engagement, the program can achieve even greater impact. 
-About: 
+
+About: [linkedln](https://www.linkedin.com/posts/umar-dahiru-minta-4b7aa4319_hammadtechnologiesandconsultancy-capstoneproject-activity-7320536259775332352-KcQ1?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFDJD8sB2nnaECncIzsDQEJCETXfaGzFMxs)
    
  
 
