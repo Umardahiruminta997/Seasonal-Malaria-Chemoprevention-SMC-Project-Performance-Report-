@@ -32,8 +32,8 @@ This report presents the performance analysis of the Seasonal Malaria Chemopreve
 
 ## 1. SMC Vaccine Effectiveness 
 Definitions: 
--	PPV (Proportion of Population Vaccinated With SMC): 90.2% 
--	PCV (Proportion of Cases Vaccinated With SMC): 9.8%
+- PPV (Proportion of Population Vaccinated With SMC): 90.2%
+- PCV (Proportion of Cases Vaccinated With SMC): 9.8%
 
   
 ### Formula for Vaccine Effectiveness (VE): 
