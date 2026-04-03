@@ -6,6 +6,7 @@
 - [SMC Dataset Link](Capstone_Project_Data.xlsx)
 - [Report Pdf](Seasonal_Malaria_Chemoprevention-SMC_Nasarawa_State_Report.pdf)
 
+Toll used - Tableau & Excel
  
 # Executive Summary 
 This report presents the performance analysis of the Seasonal Malaria Chemoprevention (SMC) program using data collected from 1,320 children and households. The evaluation spans across key indicators including vaccine effectiveness, adverse reactions, program acceptance, and community reach. Results show excellent vaccine coverage and effectiveness, moderate adverse reaction rates, and high overall satisfaction among beneficiaries. 
